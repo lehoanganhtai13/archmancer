@@ -1,0 +1,17 @@
+{
+  "name": "archmancer",
+  "plugins": [
+    {
+      "name": "archmancer",
+      "source": {
+        "source": "local",
+        "path": "./codex/archmancer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

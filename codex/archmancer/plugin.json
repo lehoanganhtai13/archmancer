@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "archmancer",
+  "version": "1.0.0",
+  "description": "Eight skills for coding agents building systems where an agent selects model and action steps toward an outcome: map the architecture, choose the smallest design that meets the requirements, and trace failures across component boundaries.",
+  "author": {
+    "name": "Lê Hoàng Anh Tài"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "llm",
+    "agents",
+    "architecture",
+    "evaluation",
+    "reliability",
+    "security"
+  ]
+}

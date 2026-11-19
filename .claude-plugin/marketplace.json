@@ -1,0 +1,15 @@
+{
+  "name": "archmancer",
+  "description": "Eight skills for coding agents building systems where an agent selects model and action steps toward an outcome: map the architecture, choose the smallest design that meets the requirements, and trace failures across component boundaries.",
+  "owner": {
+    "name": "Lê Hoàng Anh Tài"
+  },
+  "plugins": [
+    {
+      "name": "archmancer",
+      "source": "./claude/archmancer",
+      "description": "Eight skills for coding agents building systems where an agent selects model and action steps toward an outcome: map the architecture, choose the smallest design that meets the requirements, and trace failures across component boundaries.",
+      "category": "development"
+    }
+  ]
+}
